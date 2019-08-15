@@ -2450,11 +2450,11 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		margin-bottom: 0;
+		margin-bottom: 100;
 	}
 
 		#main section:first-of-type {
-			padding-top: 2em;
+			padding-top: 500em;
 		}
 
 /* Footer */
