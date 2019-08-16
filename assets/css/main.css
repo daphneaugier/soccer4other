@@ -2450,11 +2450,11 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		margin-bottom: 100;
+		margin-bottom: 0;
 	}
 
 		#main section:first-of-type {
-			padding-top: 500em;
+			padding-top: 5em;
 		}
 
 /* Footer */
@@ -2510,8 +2510,9 @@ input, select, textarea {
 	.carousel {
 		position: relative;
 		overflow: hidden;
-		padding: 2em 0 2em 0;
-		margin-bottom: 0;
+		padding: 10em 0 2em 0;
+		margin-bottom: 10mm;
+		margin-top: 10mm;
 	}
 
 		.carousel .forward, .carousel .backward {
@@ -2592,8 +2593,8 @@ input, select, textarea {
 
 		.carousel article {
 			display: inline-block;
-			width: 18em;
-			background: #fff;
+			width: 25em;
+			background: lightsalmon;
 			text-align: center;
 			padding: 0 1em 3em 1em;
 			margin: 0 2em 0 0;
@@ -3109,6 +3110,7 @@ input, select, textarea {
 
 			#main > header {
 				text-align: center;
+				font: bold;
 			}
 
 		/* Footer */
@@ -3120,6 +3122,10 @@ input, select, textarea {
 
 		/* Carousel */
 
+		.carousel header {
+			text-align: center;
+			font: bold;
+		}
 			.carousel {
 				padding: 0.5em 0 0.5em 0;
 			}
