@@ -2216,7 +2216,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			box-shadow: inset 0 0 0 2px #orange;
-			color: #18bfef !important;
+			color: orange !important;
 		}
 
 		input[type="submit"].primary,
@@ -2890,7 +2890,7 @@ input, select, textarea {
 	}
 
 	ul.icons li a.icon:hover:before {
-		color: #18bfef;
+		color: orange;
 	}
 
 	ul.icons.alt li .icon:before {
@@ -3324,7 +3324,7 @@ input, select, textarea {
 
 			#intro a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: orange !important;
 			}
 
 		#intro strong, #intro b {
@@ -3363,8 +3363,8 @@ input, select, textarea {
 			#intro input[type="button"]:hover,
 			#intro button:hover,
 			#intro .button:hover {
-				box-shadow: inset 0 0 0 2px #18bfef;
-				color: #18bfef !important;
+				box-shadow: inset 0 0 0 2px orange;
+				color: orange !important;
 			}
 
 			#intro input[type="submit"].primary,
@@ -3382,7 +3382,7 @@ input, select, textarea {
 				#intro input[type="button"].primary:hover,
 				#intro button.primary:hover,
 				#intro .button.primary:hover {
-					background-color: #18bfef;
+					background-color: orange
 				}
 
 		#intro h1 {
@@ -4018,7 +4018,7 @@ input, select, textarea {
 			#footer button:hover,
 			#footer .button:hover {
 				box-shadow: inset 0 0 0 2px orange;
-				color: #18bfef !important;
+				color: orange !important;
 			}
 
 			#footer input[type="submit"].primary,
@@ -4091,7 +4091,7 @@ input, select, textarea {
 
 		#footer input[type="checkbox"]:focus + label:before,
 		#footer input[type="radio"]:focus + label:before {
-			border-color: #18bfef;
+			border-color: orange;
 		}
 
 		#footer ::-webkit-input-placeholder {
@@ -4119,7 +4119,7 @@ input, select, textarea {
 		}
 
 		#footer ul.icons li a.icon:hover:before {
-			color: #18bfef;
+			color: orange;
 		}
 
 		#footer ul.icons.alt li .icon:before {
@@ -4411,7 +4411,7 @@ input, select, textarea {
 
 			#copyright a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: orange !important;
 			}
 
 		#copyright strong, #copyright b {
