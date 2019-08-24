@@ -3533,7 +3533,7 @@ input, select, textarea {
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: orange !important;
 			}
 
 		#header strong, #header b {
@@ -3577,8 +3577,8 @@ input, select, textarea {
 		}
 
 			#header .logo:hover {
-				border-color: #18bfef !important;
-				color: #18bfef !important;
+				border-color: orange !important;
+				color: orange !important;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3606,7 +3606,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		color: #ffffff;
+		color: orange;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3628,37 +3628,37 @@ input, select, textarea {
 	}
 
 		#nav ul.divided li {
-			border-top-color: #ffffff;
+	
 		}
 
 		#nav ul.icons li a.icon:hover:before {
-			color: #18bfef;
+			color: orange;
 		}
 
 		#nav ul.icons.alt li .icon:before {
-			box-shadow: inset 0 0 0 2px #ffffff;
+			box-shadow: inset 0 0 0 2px orange;
 		}
 
 		#nav ul.icons.alt li a.icon:hover:before {
-			box-shadow: inset 0 0 0 2px #18bfef;
+			box-shadow: inset 0 0 0 2px orange;
 		}
 
 		#nav input, #nav select, #nav textarea {
-			color: #ffffff;
+			color: white;
 		}
 
 		#nav a {
-			color: #ffffff;
+			color: white;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
 			#nav a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: orange !important;
 			}
 
 		#nav strong, #nav b {
-			color: #ffffff;
+			color: orange;
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
@@ -3666,7 +3666,7 @@ input, select, textarea {
 		}
 
 		#nav blockquote {
-			border-left-color: #ffffff;
+
 		}
 
 		#nav code {
@@ -3722,15 +3722,15 @@ input, select, textarea {
 					}
 
 				#nav ul.links li.active {
-					background-color: #ffffff;
+
 				}
 
 					#nav ul.links li.active a {
-						color: #1e252d;
+						color: white;
 					}
 
 						#nav ul.links li.active a:hover {
-							color: #18bfef !important;
+							color: orange !important;
 						}
 
 		#nav ul.icons {
