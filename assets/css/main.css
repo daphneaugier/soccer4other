@@ -172,7 +172,7 @@ input, select, textarea {
 	}
 
 	em, i {
-		font-style: italic;
+		/* font-style: italic; */
 	}
 
 	p {
@@ -238,7 +238,7 @@ input, select, textarea {
 
 	blockquote {
 		border-left: solid 4px;
-		font-style: italic;
+		/* font-style: italic; */
 		margin: 0 0 2rem 0;
 		padding: 0.5rem 0 0.5rem 2rem;
 	}
@@ -2920,7 +2920,7 @@ input, select, textarea {
 		}
 
 		header > p {
-			font-style: italic;
+			/* font-style: italic; */
 		}
 
 		header > h1 + p {
@@ -3392,7 +3392,7 @@ input, select, textarea {
 
 		#intro p {
 			font-size: 1.25rem;
-			font-style: italic;
+			/* font-style: italic; */
 			margin-top: -0.25rem;
 			text-align: center;
 		}
