@@ -25,10 +25,15 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+/* Used to center button for event registration */
+.wrapper {
+		text-align: center;
+		}
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+	
 body {
 	line-height: 1;
 }
