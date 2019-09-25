@@ -3611,7 +3611,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		color: orange;
+		color: rgb(255, 132, 0);
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3620,7 +3620,7 @@ input, select, textarea {
 		-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 		-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 		transition: transform 1s ease, opacity 1s ease;
-		background: orange;
+		background: rgb(255, 132, 0);
 		height: 4rem;
 		line-height: 4rem;
 		margin: -4rem auto 0 auto;
@@ -3637,7 +3637,7 @@ input, select, textarea {
 		}
 
 		#nav ul.icons li a.icon:hover:before {
-			color: orange;
+			color: rgb(56, 49, 42);
 		}
 
 		#nav ul.icons.alt li .icon:before {
