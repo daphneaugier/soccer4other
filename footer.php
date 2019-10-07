@@ -30,11 +30,11 @@
                 </section>
                 <section>
                     <h3>Phone</h3>
-                    <p><a href="#">+1 (514) 812-2857‬</a></p>
+                    <p><a>+1 (514) 812-2857‬</a></p>
                 </section>
                 <section>
                     <h3>Email</h3>
-                    <p><a href="#">soccer4other@gmail.com</a></p>
+                    <p><a href="mailto:soccer4other@gmail.com">soccer4other@gmail.com</a></p>
                 </section>
                 <section>
                     <h3>Social</h3>
