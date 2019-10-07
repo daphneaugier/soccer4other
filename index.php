@@ -35,9 +35,9 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="index.html">About Us</a></li>
-							<li><a href="pastevents.html">Past events</a></li>
-							<li><a href="registration.html">Event Registration</a></li>
+							<li class="active"><a href="index.php">About Us</a></li>
+							<li><a href="pastevents.php">Past events</a></li>
+							<li><a href="registration.php">Event Registration</a></li>
 							<!-- <li><a href="findateam.html">Find a team</a></li> -->
 							<!--	<li><a href="forum.html">Forum</a></li> -->
 						</ul>
