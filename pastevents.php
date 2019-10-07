@@ -156,6 +156,7 @@
 													</article>  -->
 
 									</section>
+								</div>
 <!-- Footer -->
 <?php include('footer.php'); ?>   
 
