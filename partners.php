@@ -30,6 +30,35 @@
 						<!-- Main -->
 						<div id="main">
 		
+
+										<!-- Featured Post -->
+										<article class="post featured">
+										<header class="major">
+											<span class="date">About our partners</span>
+											<p>Sometimes the most rewarding goal is helping others reach theirs. 
+												That is why Soccer4Other is proud and thankful to its long lasting partners and 
+												sponsors throughout the world. Today, we are proud to say that we have now organized 11 
+												tournaments, having over 800 participants and impacting over 30,000 people over social media, 
+												and all that thanks to our partners. </p>
+												
+												<p>Soccer4Other stands for creating a positive social impact 
+												in it’s local, national, and international communities. This exaggerated ambition to create a positive
+												 change has driven our partners to support our project with numerous different rewards that went to the
+											  winners and helped with the promotion of our tournaments. Help that was given back with a spot for a
+											   team composed uniquely of our partners employees in our events. Also, we helped the promotion of some
+											    of our partners stores and a variety of their products too, some of which they've had direct feedback
+												from our numerous participants. </p>
+												
+												<p>When you partner with Soccer4Other, you introduce your business and employees to a new range of opportunities 
+												for growth. Whether it is through promotion on Soccer4Other accounts, opportunities for team building, or 
+												positive social branding, we guarantee a harmonious and grattifying partnership. Our crave for this project to 
+												function has enabled us to look further than just the financial benefit of a partnership. Breaching the limits 
+												of what could be called a ‘win-win’ situation for all associated people, and observe with gladness and ambition
+												 onto the next ones that will be within the reach of our help. </p>
+										</header>
+									</article>
+
+
 								<!-- Posts -->
 									<section class="posts">
 										<article>
