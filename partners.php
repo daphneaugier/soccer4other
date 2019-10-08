@@ -35,7 +35,7 @@
 										<article>
 											<header>
 												<span class="date"></span>
-												<h2><a href="#">District 5</a></h2>
+												<h2><a>District 5</a></h2>
 											</header>
 											<a class="image partner"><img src="images/district5.png" alt="" /></a>
 											<p></p>
