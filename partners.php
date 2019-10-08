@@ -37,7 +37,7 @@
 												<span class="date"></span>
 												<h2><a href="#">District 5</a></h2>
 											</header>
-											<img class="image partner" src="images/district5.png" alt="" />
+											<a class="image partner"><img src="images/district5.png" alt="" /></a>
 											<p></p>
 											<ul class="actions special">
 											<li><a href="https://www.district5soccer.com/fr/index.html" class="button">Go to website</a></li> 
