@@ -34,17 +34,28 @@
 									<article class="post featured">
 										<header class="major">
 											<span class="date">Latest event</span>
-											<h2><a href="#">Zapopan, Mexico</a></h2>
+											<h2><a href="#">Montreal, Canada</a></h2>
 											<p></p>
 										</header>
-										<a href="#" class="image main"><img src="images/1mai.jpg" alt="" /></a>
+										<a href="#" class="image main"><img src="images/11octobre.jpg" alt="" /></a>
 										<ul class="actions special">
-										<!--	<li><a href="#" class="button large">Access to gellery</a></li> -->
+											<li><a href="11octobre.php" class="button large">Access to gellery</a></li> 
 										</ul>
 									</article>
 		
 								<!-- Posts -->
 									<section class="posts">
+									<article>
+											<header>
+												<span class="date">May 1st, 2019</span>
+												<h2><a href="#">Zapopan, Mexico</a></h2>
+											</header>
+											<a href="#" class="image fit"><img src="images/1mai.jpg" alt="" /></a>
+											<p></p>
+											<!--<ul class="actions special">
+														<li><a href="#" class="button">Full Gallery </a></li> 
+											</ul> -->
+										</article>
 										<article>
 											<header>
 												<span class="date">April 6th, 2019</span>
@@ -111,18 +122,18 @@
 														<li><a href="#" class="button">Full Gallery </a></li> 
 											</ul> -->
 										</article>
-										<!-- <article>
+										<article>
 												<header>
 													<span class="date">October 12th, 2018</span>
 													<h2><a href="#">Montréal, Canada</a></h2>
 												</header>
 												<a href="#" class="image fit"><img src="images/12octobre.jpg" alt="" /></a>
 												<p></p>
-												<ul class="actions special">
-														<li><a href="#" class="button">Full Gallery </a></li>
-												</ul>
+											<!--	<ul class="actions special">
+														<li><a href="" class="button">Full Gallery </a></li> 
+												</ul> -->
 											</article>
-											<article>
+											<!-- <article>
 													<header>
 														<span class="date">April 8th, 2018</span>
 														<h2><a href="#">Montréal, Canada</a></h2>
