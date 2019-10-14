@@ -39,7 +39,7 @@
 										</header>
 										<a href="#" class="image main"><img src="images/11octobre.jpg" alt="" /></a>
 										<ul class="actions special">
-											<li><a href="11octobre.php" class="button large">Access to gallery</a></li> 
+											<li><a href="11octobre.php" class="button large">Access gallery</a></li> 
 										</ul>
 									</article>
 		
