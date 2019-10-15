@@ -32,18 +32,18 @@
 						<!-- Post -->
 							<section class="post">
 								<header class="major">
-									<h1>Next event: October 11th in Montreal, Canada. </h1>
+									<h1>Next event to be determined soon! Stay updated. </h1>
 								</header>
 
 								<!-- Form 
 									<h2>Registration Form</h2> 
-								-->
+								
 								<div class="wrapper">
 									<form action="https://www.eventbrite.ca/e/billets-s4o-tournament-111019-72979600951?aff=efbeventtix&fbclid=IwAR2XX2wnrGt5-n3gCYo-rIhy16sklNPGq9rWS7V5WXUgss55QzpMNsxpRXY">
 										<input type="submit" value="Go to event registration" />
 									</form>
 								</div>
-									
+								-->
 								<!--	GONNA MAKE THIS WORK IN A BIT, FOR THE MOMENT JUST THE LINK TO EVENTBRITE -->
 
 
