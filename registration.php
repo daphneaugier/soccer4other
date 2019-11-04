@@ -32,18 +32,17 @@
 						<!-- Post -->
 							<section class="post">
 								<header class="major">
-									<h1>Next event to be determined soon! Stay updated. </h1>
-								</header>
+									<h1>Next event: Saturday December 28th 2019 in Valbonne, France. </h1>
 
-								<!-- Form 
-									<h2>Registration Form</h2> 
+								</header>
 								
 								<div class="wrapper">
-									<form action="https://www.eventbrite.ca/e/billets-s4o-tournament-111019-72979600951?aff=efbeventtix&fbclid=IwAR2XX2wnrGt5-n3gCYo-rIhy16sklNPGq9rWS7V5WXUgss55QzpMNsxpRXY">
+									<form action="https://www.eventbrite.ca/e/billets-tournoi-7vs7-soccer4other-79975650323?fbclid=IwAR3sfGQRDpzDjUUUy2pYgH0hLnAoRx9x9PX7nlqH4GlUPrJeaMhl-064NxY">
 										<input type="submit" value="Go to event registration" />
 									</form>
 								</div>
-								-->
+
+
 								<!--	GONNA MAKE THIS WORK IN A BIT, FOR THE MOMENT JUST THE LINK TO EVENTBRITE -->
 
 
