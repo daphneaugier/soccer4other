@@ -24,6 +24,10 @@
 		'https://connect.facebook.net/en_US/fbevents.js');
 		fbq('init', '2602467833328765'); 
 		fbq('track', 'PageView');
+
+			fbq('track', 'ViewContent');
+			fbq('track', 'Subscribe', {value: '0.00', currency: 'USD', predicted_ltv: '0.00'});
+
 		</script>
 		<noscript>
 		<img height="1" width="1" 
