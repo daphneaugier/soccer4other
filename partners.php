@@ -107,7 +107,7 @@
 											<a class="image partner"><img src="images/decathlon.png" alt="" /></a>
 											<p></p>
 											<ul class="actions special">
-											<li><a href="https://www.decathlon.fr" class="button">Go to website</a></li> 
+											<li><a href="https://www.decathlon.ca/fr/" class="button">Go to website</a></li> 
 											</ul> 
 										</article>
 
