@@ -57,18 +57,31 @@
 									<article class="post featured">
 										<header class="major">
 											<span class="date">Latest event</span>
-											<h2><a href="#">Montreal, Canada</a></h2>
+											<h2><a href="#">Valbonne, France</a></h2>
+											<h4>December 28th, 2019</h4>
 											<p></p>
 										</header>
-										<a href="#" class="image main"><img src="images/11octobre.jpg" alt="" /></a>
+										<a href="#" class="image main"><img src="images/28decembre.jpg" alt="" /></a>
 										<ul class="actions special">
-											<li><a href="11octobre.php" class="button large">Access gallery</a></li> 
+										<!--	<li><a href="28decembre.php" class="button large">Access gallery</a></li> -->
 										</ul>
 									</article>
 		
 								<!-- Posts -->
-									<section class="posts">
+								<section class="posts">
+
 									<article>
+										<header>
+											<span class="date">October 11th, 2019</span>
+											<h2><a href="#">Montreal, Canada</a></h2>
+										</header>
+										<a href="#" class="image fit"><img src="images/11octobre.jpg" alt="" /></a>
+										<p></p>
+											<li><a href="11octobre.php" class="button large">Access gallery</a></li> 
+										</ul>
+									</article>
+
+										<article>
 											<header>
 												<span class="date">May 1st, 2019</span>
 												<h2><a href="#">Zapopan, Mexico</a></h2>
@@ -79,6 +92,7 @@
 														<li><a href="#" class="button">Full Gallery </a></li> 
 											</ul> -->
 										</article>
+
 										<article>
 											<header>
 												<span class="date">April 6th, 2019</span>
@@ -90,6 +104,7 @@
 														<li><a href="#" class="button">Full Gallery </a></li> 
 											</ul> -->
 										</article>
+
 										<article>
 											<header>
 												<span class="date">March 15th, 2019</span>
@@ -101,6 +116,7 @@
 														<li><a href="#" class="button">Full Gallery </a></li> 
 											</ul> -->
 										</article>
+
 										<article>
 											<header>
 												<span class="date">February 16th, 2019</span>
@@ -112,6 +128,7 @@
 														<li><a href="#" class="button">Full Gallery </a></li> 
 											</ul> -->
 										</article>
+
 										<article>
 											<header>
 												<span class="date">December 29th, 2019</span>
@@ -123,6 +140,7 @@
 														<li><a href="#" class="button">Full Gallery </a></li> 
 											</ul> -->
 										</article>
+
 										<article>
 											<header>
 												<span class="date">December 1st, 2018</span>
@@ -134,6 +152,7 @@
 														<li><a href="#" class="button">Full Gallery </a></li> 
 											</ul> -->
 										</article>
+
 										<article>
 											<header>
 												<span class="date">November 16th, 2018</span>
@@ -145,6 +164,7 @@
 														<li><a href="#" class="button">Full Gallery </a></li> 
 											</ul> -->
 										</article>
+
 										<article>
 												<header>
 													<span class="date">October 12th, 2018</span>
@@ -156,7 +176,8 @@
 														<li><a href="" class="button">Full Gallery </a></li> 
 												</ul> -->
 											</article>
-											<!-- <article>
+
+											 <article>
 													<header>
 														<span class="date">April 8th, 2018</span>
 														<h2><a href="#">Montréal, Canada</a></h2>
@@ -167,7 +188,8 @@
 															<li><a href="#" class="button">Full Gallery </a></li>
 													</ul>
 												</article>
-												<article>
+
+											<!--	<article>
 														<header>
 															<span class="date">February 24th, 2018</span>
 															<h2><a href="#">Montréal, Canada</a></h2>

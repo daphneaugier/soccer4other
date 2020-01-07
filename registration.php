@@ -55,12 +55,12 @@
 						<!-- Post -->
 							<section class="post">
 								<header class="major">
-									<h1>Next event: Saturday December 28th 2019 in Valbonne, France. </h1>
+									<h1>Next event: Sunday February 2nd, 2020 at 2pm </h1>
 
 								</header>
 								
 								<div class="wrapper">
-									<form action="https://www.eventbrite.ca/e/billets-tournoi-7vs7-soccer4other-79975650323?fbclid=IwAR3sfGQRDpzDjUUUy2pYgH0hLnAoRx9x9PX7nlqH4GlUPrJeaMhl-064NxY">
+									<form action="">
 										<input type="submit" value="Go to event registration" />
 									</form>
 								</div>
