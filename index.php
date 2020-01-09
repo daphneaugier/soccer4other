@@ -70,12 +70,37 @@
 													To foster this social change, we dedicate all of our profits to sport-oriented local charities.</p>
 													Offering hope and opportunity for a better future is what drives our organization.
 											</header>
-											<div class="image main"><img src="images/valbonne.jpg" alt="" /></div> 
-										<!--	<h3>VISION</h3>
-											<p>Use sports values as drivers of social change. </p>
-											<h3>MISSION</h3>
-											<p>Offering hope and opportunity for a better future is what drives our organization.</p> -->
-										
+														
+							<!-- Main -->
+							<div id="main">
+						
+							<!-- Posts -->
+								<section class="posts">
+									<article>
+										<p>Soccer4Other organises des tournois de soccer. Nous utilisons ensuite les fonds 
+										pour supporter l’éducation sociale à travers le sport ! En vous inscrivant au tournoi S4O vous 
+										prendrez plaisir entre pis et supporterez une cause sociale qui vous tient à cœur.</p>
+									</article>
+
+									<article>
+										<p>Soccer4other a déjà organiser une quinzaine de tournois. Même si la plupart ont eu lieu à Montréal, 
+										au District 5, Hochelaga, nous avons organiser des tournois en France et un au Mexique. </p>
+									</article>
+
+									<article>
+										<p>Pour 3 Points est une entreprise sociale qui forment des coachs sportifs et coachs de vie. Ainsi, en étant 
+										bien formés, les coachs peuvent aider les jeunes à développer les habiletés requises pour réussir à l’école et dans la vie.</p>
+									</article>
+
+									<article>
+										<p>Soccer4Other organises des tournois de soccer. Nous utilisons ensuite les fonds 
+										pour supporter l’éducation sociale à travers le sport ! En vous inscrivant au tournoi S4O vous 
+										prendrez plaisir entre pis et supporterez une cause sociale qui vous tient à cœur.</p>
+									</article>
+									
+								</section>
+							</div>
+																	
 
 										</section>
 			
