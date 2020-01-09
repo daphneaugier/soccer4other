@@ -64,7 +64,7 @@
 									<!-- Post -->
 										<section class="post">
 											<header class="major">
-												<span class="date">Who are we?</span>
+												<span class="date">About us</span>
 												<p><b>Soccer4Other</b> is a social start-up that organizes soccer tournaments to support education through sport in 
 													underprivileged areas of the world. We have previously organized tournaments in Montreal, Mexico and France.
 													To foster this social change, we dedicate all of our profits to sport-oriented local charities.</p>
@@ -77,14 +77,15 @@
 							<!-- Posts -->
 								<section class="posts">
 									<article>
-										<p>Soccer4Other organises des tournois de soccer. Nous utilisons ensuite les fonds 
-										pour supporter l’éducation sociale à travers le sport ! En vous inscrivant au tournoi S4O vous 
-										prendrez plaisir entre pis et supporterez une cause sociale qui vous tient à cœur.</p>
+										<a class="image main"><img src="images/s4o.jpg" alt="" /></a>
 									</article>
 
 									<article>
-										<p>Soccer4other a déjà organiser une quinzaine de tournois. Même si la plupart ont eu lieu à Montréal, 
-										au District 5, Hochelaga, nous avons organiser des tournois en France et un au Mexique. </p>
+										<p>Soccer4other a déjà organisé une quinzaine de tournois. Même si la plupart ont eu lieu à Montréal, 
+										au District 5, Hochelaga, nous avons organiser des tournois en France et un au Mexique. Soccer4Other
+										 organises des tournois de soccer. Nous utilisons ensuite les fonds pour supporter l’éducation sociale à 
+										 travers le sport ! En vous inscrivant au tournoi S4O vous prendrez plaisir entre pis et supporterez une 
+										 cause sociale qui vous tient à cœur.</p>
 									</article>
 
 									<article>
@@ -93,9 +94,7 @@
 									</article>
 
 									<article>
-										<p>Soccer4Other organises des tournois de soccer. Nous utilisons ensuite les fonds 
-										pour supporter l’éducation sociale à travers le sport ! En vous inscrivant au tournoi S4O vous 
-										prendrez plaisir entre pis et supporterez une cause sociale qui vous tient à cœur.</p>
+									<a class="image main"><img src="images/pour3pointsindex.jpg" alt="" /></a>
 									</article>
 									
 								</section>
