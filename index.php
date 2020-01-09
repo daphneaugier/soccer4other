@@ -82,9 +82,8 @@
 
 									<article>
 										<p>Soccer4other a déjà organisé une quinzaine de tournois. Même si la plupart ont eu lieu à Montréal, 
-										au District 5, Hochelaga, nous avons organiser des tournois en France et un au Mexique. Soccer4Other
-										 organises des tournois de soccer. Nous utilisons ensuite les fonds pour supporter l’éducation sociale à 
-										 travers le sport ! En vous inscrivant au tournoi S4O vous prendrez plaisir entre pis et supporterez une 
+										au District 5, Hochelaga, nous avons organiser des tournois en France et un au Mexique. En vous inscrivant au
+										 tournoi S4O vous prendrez plaisir entre pis et supporterez une 
 										 cause sociale qui vous tient à cœur.</p>
 									</article>
 
