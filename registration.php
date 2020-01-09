@@ -56,9 +56,8 @@
 							<section class="post">
 								<header class="major">
 									<h1>Next event: Sunday February 2nd, 2020 at 2pm </h1>
-
 								</header>
-								
+
 								<div class="wrapper">
 									<form action="https://community.decathlon.ca/activity/soccer-tournament-5v5-52065/3270621?fbclid=IwAR37PqrkaPtn_mZvj8XKhJJ_A3hl1XrqYnU3kH-Rv02MAIqxASybBzWEj5U">
 										<input type="submit" value="Go to event registration" />
