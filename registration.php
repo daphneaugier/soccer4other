@@ -55,7 +55,8 @@
 						<!-- Post -->
 							<section class="post">
 								<header class="major">
-									<h1>Next event: Sunday February 2nd, 2020 at 2pm </h1>
+									<h2>Next event:</h2> <br />
+									<h2> Sunday February 2nd, 2020 at 2pm </h2>
 								</header>
 
 								<div class="wrapper">
@@ -64,6 +65,13 @@
 									</form>
 								</div>
 
+									<article>
+									<a class="image main"><img src="images/tournois.jpg" alt="" /></a>
+									</article>
+																								
+										</section>
+			
+                                </div>
 
 								<!--	GONNA MAKE THIS WORK IN A BIT, FOR THE MOMENT JUST THE LINK TO EVENTBRITE -->
 
@@ -146,11 +154,7 @@
 
 									<hr />  -->
 								
-							
-
-							</section>
-
-					</div>
+	
 
 	<!-- Footer -->
 	<?php include('footer.php'); ?>   
