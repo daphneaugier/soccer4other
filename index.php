@@ -31,8 +31,7 @@
 		</script>
 		<noscript>
 		<img height="1" width="1" 
-		src="https://www.facebook.com/tr?id=2602467833328765&ev=PageView
-		&noscript=1"/>
+		src="https://www.facebook.com/tr?id=2602467833328765&ev=PageView&noscript=1"/>
 		</noscript>
 		<!-- End Facebook Pixel Code -->
 	</head>
@@ -65,10 +64,14 @@
 										<section class="post">
 											<header class="major">
 												<span class="date">About us</span>
-												<p><b>Soccer4Other</b> is a social start-up that organizes soccer tournaments to support education through sport in 
-													underprivileged areas of the world. We have previously organized tournaments in Montreal, Mexico and France.
-													To foster this social change, we dedicate all of our profits to sport-oriented local charities.</p>
+												<p><b>Soccer4Other</b> is a non-profit organisation that aims to use sports values as drivers of social change.
+														To do this, we've organised numerous soccer tournaments in three different countries around the world, and use the profits to support 
+														local charities that provide education through sport. Our work is only possible thanks to the partnerships that we have established with Pour3Points, 
+														Décathlon Montréal and Antibes, District 5 Soccer, Soccer5 Montréal, and local student communities in various countries.
+													</p>
+													<p>
 													Offering hope and opportunity for a better future is what drives our organization.
+													</p>
 											</header>
 														
 							<!-- Main -->
@@ -81,15 +84,15 @@
 									</article>
 
 									<article>
-										<p>Soccer4other a déjà organisé une quinzaine de tournois. Même si la plupart ont eu lieu à Montréal, 
-										au District 5, Hochelaga, nous avons organiser des tournois en France et un au Mexique. En vous inscrivant au
-										 tournoi S4O vous prendrez plaisir entre pis et supporterez une 
-										 cause sociale qui vous tient à cœur.</p>
+										<p>Soccer4Other est une organisation à but non lucratif, qui vise à utiliser les valeurs du sport pour créer du changement social.
+										Nous avons organisé plusieurs tournois de football dans trois pays différents, afin d'utiliser les profits pour supporter l'éducation par le sport.
+										Notre travail est rendu possible grâce aux partenariats que nous avons pu établir avec Pour3Points, Décathlon Montréal et Antibes, District 5 Soccer, 
+										Soccer5 Montréal, ainsi que les communautés étudiantes dans plusieurs pays.</p>
 									</article>
 
 									<article>
-										<p>Pour 3 Points est une entreprise sociale qui forment des coachs sportifs et coachs de vie. Ainsi, en étant 
-										bien formés, les coachs peuvent aider les jeunes à développer les habiletés requises pour réussir à l’école et dans la vie.</p>
+										<p>Pour 3 Points est une entreprise sociale qui forme des coachs sportifs et des coachs de vie. Ainsi, en étant 
+										bien formés, les coachs peuvent aider les jeunes à développer les qualités requises pour réussir à l’école et dans la vie.</p>
 									</article>
 
 									<article>
@@ -105,6 +108,7 @@
                                 </div>
 
 <!--FOOTER-->
+
 <?php require('footer.php'); ?>                                
 
 	</body>

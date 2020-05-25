@@ -56,7 +56,7 @@
 							<section class="post">
 								<header class="major">
 									<h2>Next event:</h2> <br />
-									<h2> Sunday February 2nd, 2020 at 2pm </h2>
+									<h2> Due to the current COVID-19 pandemic, no tournaments are scheduled at this time. </h2>
 								</header>
 
 								<div class="wrapper">

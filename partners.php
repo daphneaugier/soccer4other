@@ -58,13 +58,13 @@
 										<header class="major">
 											<span class="date">About our partners</span>
 											<p>Sometimes the most rewarding goal is helping others reach theirs. 
-												That is why Soccer4Other is proud and thankful to its long lasting partners and 
-												sponsors throughout the world. Today, we are proud to say that we have now organized 12 
-												tournaments, having over 800 participants and impacting over 30,000 people over social media, 
+												That is why Soccer4Other is thankful for its long lasting partnerships 
+												throughout the world. Today, we are proud to say that we have organized 15 
+												tournaments, having over 1000 participants and impacting over 35,000 people over social media, 
 												and all that thanks to our partners. </p>
 												
 												<p>Soccer4Other stands for creating a positive social impact 
-												in it’s local, national, and international communities. This exaggerated ambition to create a positive
+												in its local, national, and international communities. This exaggerated ambition to create a positive
 												 change has driven our partners to support our project with numerous different rewards that went to the
 											  winners and helped with the promotion of our tournaments.</p>
 												
