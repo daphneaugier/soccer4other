@@ -1,5 +1,11 @@
 # Soccer4other
-Building the website of non-governmental organization
+Website for soccer non-governmental association
 
 ## Technologies Used
+* HTML5
+* CSS3
+* Bootstrap
+
+## Hosting
+* GoDaddy
 
